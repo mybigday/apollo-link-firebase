@@ -60,7 +60,7 @@
     "react-addons-test-utils": "^15.6.2",
     "react-apollo": "3.1.1",
     "react-dom": "^16.8.6",
-    "rimraf": "^2.6.3",
+    "rimraf": "^3.0.0",
     "sinon": "^7.3.2",
     "ts-loader": "^6.1.2",
     "ts-node": "^8.4.1",

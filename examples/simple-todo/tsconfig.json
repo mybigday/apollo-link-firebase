@@ -6,6 +6,6 @@
     "jsx": "react",
     "declaration": false
   },
-  "include": ["./src/**/*.tsx?"],
+  "include": ["./src/**/*.ts", "./src/**/*.tsx"],
   "exclude": ["./node_modules"]
 }

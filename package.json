@@ -36,7 +36,7 @@
     "@types/mocha": "^2.2.48",
     "@types/node": "^12.7.8",
     "@types/react": "16.8.14",
-    "@types/react-dom": "16.8.4",
+    "@types/react-dom": "16.9.1",
     "@types/sinon": "^7.0.11",
     "@types/webpack": "^4.39.1",
     "@types/webpack-env": "1.13.9",

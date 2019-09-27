@@ -23,17 +23,7 @@ export interface MutationResolverRoot {
 }
 
 export interface DirectiveArgs {
-  ref: string
-  type: string
-  name: string
-  orderByChild?: string
-  orderByKey?: boolean
-  orderByValue?: boolean
-  limitToFirst?: number
-  limitToLast?: number
-  startAt?: any
-  endAt?: any
-  equalTo?: any
+  [argName: string]: any
 }
 
 export interface SubDirectiveArgs extends DirectiveArgs {

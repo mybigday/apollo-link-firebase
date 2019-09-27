@@ -1,5 +1,4 @@
-import { ExecInfo } from 'graphql-anywhere/lib/async';
-import { Resolver } from 'graphql-anywhere';
+import { ExecInfo, Resolver } from 'graphql-anywhere';
 import * as has from 'lodash/has';
 import * as last from 'lodash/last';
 import { MutationResolverContext, MutationResolverRoot } from './types';

@@ -22,7 +22,7 @@
   "scripts": {
     "lint": "tslint -c tslint.json src/**/*.ts",
     "bundle": "./node_modules/.bin/webpack --config webpack.config.prod.js",
-    "test": "TS_NODE_COMPILER_OPTIONS='{\"module\":\"commonjs\"}' mocha --timeout 10000 --compilers ts:ts-node/register --recursive --exit \"test/**/*.spec.ts\"",
+    "test": "TS_NODE_COMPILER_OPTIONS='{\"module\":\"commonjs\"}' mocha --timeout 10000 --require ts-node/register --recursive --exit \"test/**/*.spec.ts\"",
     "clean": "rimraf lib",
     "prebuild": "npm run clean",
     "build": "tsc -p ./tsconfig.release.json --pretty",

@@ -11,7 +11,7 @@
     "@types/react-dom": "16.9.4",
     "@types/webpack": "^4.41.0",
     "@types/webpack-env": "1.14.1",
-    "antd": "^3.25.3",
+    "antd": "^3.26.0",
     "apollo-cache-inmemory": "^1.6.3",
     "apollo-client": "^2.6.4",
     "apollo-link": "^1.2.13",

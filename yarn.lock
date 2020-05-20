@@ -658,9 +658,9 @@
     csstype "^2.2.0"
 
 "@types/sinon@^9.0.0":
-  version "9.0.2"
-  resolved "https://registry.yarnpkg.com/@types/sinon/-/sinon-9.0.2.tgz#80c30f8dd538a9e0d7405a9e07caa268e5b82b7b"
-  integrity sha512-RsKraY1SwQr6NsbRj/E9L2ZPpmFVcJrSqA/EPSENCks+1KuO84Jo2Gqs0c7kbtalILxxsRkP+q00uA3OWzmKNg==
+  version "9.0.3"
+  resolved "https://registry.yarnpkg.com/@types/sinon/-/sinon-9.0.3.tgz#c803f2ebf96db44230ce4e632235c279830edd45"
+  integrity sha512-NWVG++603tEDwmz5k0DwFR1hqP3iBmq5GYi6d+0KCQMQsfDEULF1D7xqZ+iXRJHeGwLVhM+Rv73uzIYuIUVlJQ==
   dependencies:
     "@types/sinonjs__fake-timers" "*"
 

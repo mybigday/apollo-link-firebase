@@ -17,7 +17,7 @@
     "apollo-link": "^1.2.14",
     "apollo-link-firebase": "file:../..",
     "apollo-utilities": "^1.3.3",
-    "css-loader": "^3.5.3",
+    "css-loader": "^3.6.0",
     "graphql": "^14.6.0",
     "graphql-tag": "^2.10.3",
     "graphql-tools": "^6.0.9",

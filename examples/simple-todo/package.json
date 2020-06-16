@@ -20,7 +20,7 @@
     "css-loader": "^3.6.0",
     "graphql": "^14.6.0",
     "graphql-tag": "^2.10.3",
-    "graphql-tools": "^6.0.9",
+    "graphql-tools": "^6.0.10",
     "lodash": "^4.17.15",
     "react": "^16.13.1",
     "react-addons-test-utils": "^15.6.2",
